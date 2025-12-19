@@ -1,5 +1,4 @@
 - https://react-buildeployship.vercel.app/
-- https://react-buildeployship.netlify.app/
 
 # React + Vite
 
